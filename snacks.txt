@@ -1,0 +1,6 @@
+1, Papas, 20.0
+2, Refresco, 20.0
+3, Sandwich, 20.0
+4, Chocolate, 25.0
+5, Galletas, 15.0
+6, Caramelo, 10.0
